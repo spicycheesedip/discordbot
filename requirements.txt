@@ -1,0 +1,10 @@
+discord.py
+beautifulsoup4
+python-whois
+pywhatkit
+openai
+transformers
+torch
+textblob
+spacy
+phonenumbers
